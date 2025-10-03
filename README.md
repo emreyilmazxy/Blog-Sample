@@ -3,9 +3,6 @@
 ### 🏠 Ana Sayfa
 ![Ana Sayfa](img/site-ana-ekran-foto.png)
 
-### 📝 Blog Sayfası
-*Blog sayfası görüntüleri için img klasöründeki görseller kullanılmaktadır.*
-
 ### 📞 İletişim Sayfası
 *İletişim formu ve harita entegrasyonu*
 

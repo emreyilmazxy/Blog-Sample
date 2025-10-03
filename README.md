@@ -49,7 +49,6 @@ Blog-Sample/
 ## 📱 Sayfalar
 
 ### 🏠 Ana Sayfa (index.html)
-- Hero section ile çarpıcı giriş
 - Blog kartları grid yapısı
 - Call-to-action butonları
 - Responsive navbar
@@ -107,17 +106,6 @@ Blog-Sample/
 - Form validasyon
 - Google Maps konum gösterimi
 
-## 🔧 Özelleştirme
-
-### CSS Değişkenleri
-```css
-:root {
-  --primary-color: #085e7d;
-  --secondary-color: #ffc107;
-  --dark-color: #212529;
-}
-```
-
 ### Responsive Breakpoints
 - **Mobile**: < 768px
 - **Tablet**: 768px - 992px
@@ -140,30 +128,3 @@ Blog-Sample/
 - **Grid System**: Responsive layout
 - **Utilities**: Spacing ve color utilities
 
-## 📄 Lisans
-
-Bu proje eğitim amaçlı geliştirilmiştir. Özgürce kullanabilirsiniz.
-- [ ] Arama fonksiyonalitesi
-- [ ] Kategori filtreleme
-- [ ] Dark mode desteği
-- [ ] Animation efektleri
-- [ ] Backend entegrasyonu
-
-## 📄 Lisans
-
-Bu proje eğitim amaçlı geliştirilmiştir. Özgürce kullanabilirsiniz.
-
-## 👨‍💻 Geliştirici
-
-**Emre Yılmaz**
-- 📧 Email: [email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/emreyilmaz]
-- 🐙 GitHub: [github.com/emreyilmaz]
-
-## 🙏 Teşekkürler
-
-Bu proje Bootstrap framework'ü ve açık kaynak topluluğunun katkılarıyla geliştirilmiştir.
-
----
-
-⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!

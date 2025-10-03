@@ -1,13 +1,7 @@
 # Awesome Blog - Bootstrap Practice Project
 
-![Awesome Blog Ana Sayfa](img/bg.png)
-
-Modern ve responsive bir blog sitesi projesi. Bu proje Bootstrap 5 framework'ü kullanılarak geliştirilmiş bir pratik çalışmasıdır.
-
-## 📸 Ekran Görüntüleri
-
 ### 🏠 Ana Sayfa
-![Ana Sayfa](img/bg.png)
+![Ana Sayfa](img/site-ana-ekran-foto.png)
 
 ### 📝 Blog Sayfası
 *Blog sayfası görüntüleri için img klasöründeki görseller kullanılmaktadır.*
@@ -149,9 +143,9 @@ Blog-Sample/
 - **Grid System**: Responsive layout
 - **Utilities**: Spacing ve color utilities
 
-## 🌟 Gelecek Geliştirmeler
+## 📄 Lisans
 
-- [ ] Blog yazı detay sayfası
+Bu proje eğitim amaçlı geliştirilmiştir. Özgürce kullanabilirsiniz.
 - [ ] Arama fonksiyonalitesi
 - [ ] Kategori filtreleme
 - [ ] Dark mode desteği
